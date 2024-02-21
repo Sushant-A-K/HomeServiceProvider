@@ -2,7 +2,7 @@
 
 ## Project Overview
 The **Home Service Provider** project refers to the facilities-based carrier  with whom the customer contracts for the provision of services. Users can create an account and log in.
-## [Live] demo
+## [Live](https://homeserviceprovider.onrender.com) demo
 
 #### Technology stack
 - Mongodb
